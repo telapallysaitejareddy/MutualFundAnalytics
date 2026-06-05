@@ -46,6 +46,7 @@ MutualFundAnalytics/
 10. Benchmark Indices
 
 ---
+<<<<<<< HEAD
 
 ## Day 1 – Data Ingestion & Validation
 
@@ -69,6 +70,31 @@ MutualFundAnalytics/
 * Categories: Equity and Debt
 * Sub-Categories: 12
 * All AMFI codes successfully validated
+=======
+
+## Day 1 – Data Ingestion & Validation
+
+### Activities Completed
+
+- Created project folder structure
+- Configured Git and GitHub repository
+- Installed project dependencies
+- Loaded and explored all 10 datasets using Pandas
+- Performed data quality checks
+- Fetched live NAV data using MFAPI
+- Retrieved NAV data for selected mutual fund schemes
+- Explored fund master dataset
+- Validated AMFI codes against NAV history
+- Generated data quality summary report
+
+### Key Findings
+
+- Total Mutual Fund Schemes: 40
+- Total Fund Houses: 10
+- Categories: Equity and Debt
+- Sub-Categories: 12
+- All AMFI codes successfully validated
+>>>>>>> 2915025 (Project update: Completed Day 1 to Day 3)
 
 ---
 
@@ -76,6 +102,7 @@ MutualFundAnalytics/
 
 ### Activities Completed
 
+<<<<<<< HEAD
 * Cleaned NAV history data
 * Cleaned investor transaction data
 * Cleaned scheme performance data
@@ -92,6 +119,24 @@ MutualFundAnalytics/
 * SQL schema design
 * Analytical SQL queries
 * Data dictionary documentation
+=======
+- Cleaned NAV history data
+- Cleaned investor transaction data
+- Cleaned scheme performance data
+- Created processed datasets
+- Designed SQLite star schema
+- Developed SQL scripts
+- Created data dictionary
+- Prepared database loading scripts
+
+### Deliverables
+
+- Cleaned datasets in `data/processed`
+- SQLite database structure
+- SQL schema design
+- Analytical SQL queries
+- Data dictionary documentation
+>>>>>>> 2915025 (Project update: Completed Day 1 to Day 3)
 
 ---
 
@@ -99,6 +144,7 @@ MutualFundAnalytics/
 
 ### Analyses Performed
 
+<<<<<<< HEAD
 * NAV Trend Analysis
 * AUM Growth Analysis
 * SIP Inflow Trend Analysis
@@ -122,6 +168,31 @@ MutualFundAnalytics/
 * Correlation Matrix
 * Sector Allocation Donut Chart
 * Risk and Return Visualizations
+=======
+- NAV Trend Analysis
+- AUM Growth Analysis
+- SIP Inflow Trend Analysis
+- Category Inflow Heatmap
+- Investor Demographics Analysis
+- Geographic Distribution Analysis
+- Folio Growth Analysis
+- NAV Correlation Analysis
+- Sector Allocation Analysis
+- Risk vs Return Analysis
+
+### Visualizations Created
+
+- NAV Trend Charts
+- AUM Growth Charts
+- SIP Trend Charts
+- Category Heatmaps
+- Age Distribution Charts
+- Gender Distribution Charts
+- Geographic Analysis Charts
+- Correlation Matrix
+- Sector Allocation Donut Chart
+- Risk and Return Visualizations
+>>>>>>> 2915025 (Project update: Completed Day 1 to Day 3)
 
 ### Key Insights
 
@@ -140,6 +211,7 @@ MutualFundAnalytics/
 
 ## Technologies Used
 
+<<<<<<< HEAD
 * Python
 * Pandas
 * NumPy
@@ -151,6 +223,19 @@ MutualFundAnalytics/
 * Plotly
 * Jupyter Notebook
 * Git & GitHub
+=======
+- Python
+- Pandas
+- NumPy
+- Requests
+- SQLite
+- SQLAlchemy
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
+- Git & GitHub
+>>>>>>> 2915025 (Project update: Completed Day 1 to Day 3)
 
 ---
 
@@ -158,6 +243,7 @@ MutualFundAnalytics/
 
 ### Completed
 
+<<<<<<< HEAD
 * Day 1: Data Ingestion & Validation
 * Day 2: Data Cleaning & Database Design
 * Day 3: Exploratory Data Analysis
@@ -168,6 +254,18 @@ MutualFundAnalytics/
 * Day 5: Dashboard Development
 * Day 6: Advanced Analytics
 * Day 7: Final Report & Presentation
+=======
+- Day 1: Data Ingestion & Validation
+- Day 2: Data Cleaning & Database Design
+- Day 3: Exploratory Data Analysis
+
+### Upcoming
+
+- Day 4: Performance Analytics
+- Day 5: Dashboard Development
+- Day 6: Advanced Analytics
+- Day 7: Final Report & Presentation
+>>>>>>> 2915025 (Project update: Completed Day 1 to Day 3)
 
 ---
 
